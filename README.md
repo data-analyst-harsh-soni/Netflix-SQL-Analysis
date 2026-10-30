@@ -48,7 +48,7 @@ The dataset is sourced from Kaggle.
 
 **Source:** Shivam Bansal
 
-**Dataset Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 The dataset contains information about Netflix titles, including:
 
