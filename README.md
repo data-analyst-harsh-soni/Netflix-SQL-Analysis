@@ -425,8 +425,8 @@ I enjoy working with data, solving business problems, developing analytical solu
 
 ### Connect With Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harsh-soni-data-analyst/)
+- **GitHub:** [Explore my repositories](https://github.com/data-analyst-harsh-soni)
 - **Portfolio:** [Visit my Portfolio](https://datain.vercel.app/)
 
 ---
