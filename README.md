@@ -4,6 +4,8 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
+![](https://github.com/data-analyst-harsh-soni/Netflix-SQL-Analysis/blob/main/logo.png)
+
 ## 📌 Project Overview
 
 This project focuses on analyzing Netflix Movies and TV Shows data using **PostgreSQL** to uncover meaningful insights about Netflix's content library.
